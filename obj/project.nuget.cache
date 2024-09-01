@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9EbcbokOqH0STwx2YFEJMYPU1Ur0FNwghyhaXLtGkQ3LwYFmXnjskogSkrUyl3BoLbDVyoQjkIEDvSeWA3N3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\Navigator\\Navigator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
