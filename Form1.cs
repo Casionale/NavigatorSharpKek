@@ -15,7 +15,7 @@ namespace Navigator
         {
             //HTTPSClient.POSTLogin(tbLogin.Text, tbPassword.Text);
             HTTPSClient.Init();
-            await HTTPSClient.POSTLogin("kirill.bagrow@yandex.ru", "CasioTitanium1");
+            await HTTPSClient.POSTLogin(tbLogin.Text, tbPassword.Text);
             if (root != null)
             {
                 lblStatusLogin.Text = "Успешно!";
